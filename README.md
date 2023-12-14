@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shweta</h1>
+<h1 align="center">Hi 👋, I'm Shweta Ramesh Thombre</h1>
 <h3 align="center">A passionate frontend developer from India 👋 Greetings! I'm Shweta, a results-driven Entry-Level Frontend Developer with a focus on precision and innovation. Proficient in HTML, CSS, JavaScript, React, and Angular, I am dedicated to creating seamless and visually appealing user interfaces. I am committed to staying at the forefront of technology and leveraging my skills to deliver high-quality web solutions. Let's connect and transform ideas into polished, user-centric experiences. 💻✨ #FrontendDeveloper #WebDesign #CodePassion</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shweta-thombre&label=Profile%20views&color=0e75b6&style=flat" alt="shweta-thombre" /> </p>
